@@ -28,5 +28,7 @@ CSS
 
 JS
 -----------------------------------------------------------
-	Call it!
+	Include the code from full-screen-video.js.
+	Call it on your video element.
+	
 	$('#full-screen-video').fullScreenVideo();
