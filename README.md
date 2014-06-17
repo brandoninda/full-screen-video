@@ -5,8 +5,6 @@ Fullscreen Responsive Background Video
 
 *** jQuery is required ***
 
-Example:
-
 HTML
 -----------------------------------------------------------
 	Use id="full-screen-video" on your video element.
