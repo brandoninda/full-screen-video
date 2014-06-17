@@ -7,7 +7,7 @@ Fullscreen Responsive Background Video
 
 Example:
 
-Markup
+HTML
 -----------------------------------------------------------
 	Use id="full-screen-video" on your video element.
 
